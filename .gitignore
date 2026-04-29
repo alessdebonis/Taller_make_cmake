@@ -1,0 +1,4 @@
+build/
+*.o
+programa
+matecas_app
