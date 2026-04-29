@@ -1,0 +1,3 @@
+/Users/alessdebonia/Desktop/Pensamiento Algoritmico/Taller Make/build/CMakeFiles/matecas_app.dir
+/Users/alessdebonia/Desktop/Pensamiento Algoritmico/Taller Make/build/CMakeFiles/edit_cache.dir
+/Users/alessdebonia/Desktop/Pensamiento Algoritmico/Taller Make/build/CMakeFiles/rebuild_cache.dir
